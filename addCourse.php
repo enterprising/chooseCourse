@@ -57,7 +57,7 @@
                 </div>
                 <div class="cdlist">
                     <div>
-                        <a href="userinfo.php">我的信息</a></div>
+                        <a href="teacherInfo.php">我的信息</a></div>
                 </div>
                 <div class="ta1">
                     <strong>课程</strong>

@@ -68,7 +68,7 @@
                 </div>
                 <div class="cdlist">
                     <div>
-                        <a href="addCourseCore.php.php">新增课程</a></div>
+                        <a href="addCourse.php">新增课程</a></div>
                 </div>
 
 
